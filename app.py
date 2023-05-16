@@ -1,4 +1,5 @@
 # import all the app dependencies
+pip install -r requirements.txt
 import pandas as pd
 import numpy as np
 import sklearn
